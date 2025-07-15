@@ -38,6 +38,8 @@ public class App {
         Map<Book, Book> resultado = controller.procesarLibros(libros);
 
         System.out.println("Libros ordenados:");
-        resultado.keySet().forEach(System.out::println);
+        for (Book libro : resultado.keySet()) {
+            System.out.println(libro);
+        }
     }
 }
