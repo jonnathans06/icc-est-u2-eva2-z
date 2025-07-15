@@ -67,4 +67,8 @@ Recuerda que cada test aprobado sumará a tu nota final.
 | Tests ejecutan sin errores           | Requisito |
 | Nota final calculada automáticamente | -         |
 
+## Resultado de prueba
+<img width="513" height="130" alt="readme" src="https://github.com/user-attachments/assets/b2900daa-1b40-46e2-9d7f-745cfadd62e2" />
+
+
 DEBERA EJECUTAR PRUEBAS DESDE APP.
